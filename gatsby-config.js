@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: "glue-comic",
+  pathPrefix: "/glue-comic",
   siteMetadata: {
     title: `Chatting with Glue`,
     description: `Cognitive Tools for Augmented Conversation`,
