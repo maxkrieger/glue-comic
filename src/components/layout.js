@@ -33,8 +33,7 @@ const Layout = ({ children }) => {
       >
         <main>{children}</main>
         <footer>
-          © {new Date().getFullYear()}
-          {` `}
+          by Max Krieger, 2020
         </footer>
       </div>
     </>
