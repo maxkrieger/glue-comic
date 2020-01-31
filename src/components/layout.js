@@ -7,7 +7,7 @@
 
 import React from "react"
 import PropTypes from "prop-types"
-import { useStaticQuery, graphql } from "gatsby"
+import { useStaticQuery, graphql, Link } from "gatsby"
 
 import "./layout.css"
 
@@ -33,7 +33,9 @@ const Layout = ({ children }) => {
       >
         <main>{children}</main>
         <footer>
-          by Max Krieger, 2020
+          by Max Krieger, Jan 2020
+          <br />
+          <Link to="/citations">citations</Link>
         </footer>
       </div>
     </>
