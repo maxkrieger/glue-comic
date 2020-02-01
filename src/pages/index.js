@@ -9,7 +9,9 @@ const IndexPage = () => (
   <Layout>
     <SEO title="Chatting with Glue" />
     <img src={Chapter1} alt="Chapter 1" />
-    <Link to="/page-2">Chapter 2 {">"}</Link>
+    <div style={{ textAlign: "center" }}>
+      <Link to="/page-2">Chapter 2 {">"}</Link>
+    </div>
   </Layout>
 )
 
