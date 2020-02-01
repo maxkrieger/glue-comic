@@ -9,8 +9,7 @@ const IndexPage = () => (
   <Layout>
     <SEO title="Chatting with Glue" />
     <img src={Chapter1} alt="Chapter 1" />
-    <p>I'll be adding more in the next couple days</p>
-    <Link to="/page-2/">To be continued</Link>
+    <Link to="/page-2">Chapter 2 {">"}</Link>
   </Layout>
 )
 

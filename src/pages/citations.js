@@ -31,6 +31,10 @@ const IMAGE_CITATIONS = [
   "https://commons.wikimedia.org/wiki/File:BOSS_Great_Wall.jpg",
   "https://williambasinski.bandcamp.com/album/the-disintegration-loops",
   "https://www.youtube.com/watch?v=VlSkPA60ujQ",
+  "https://commons.wikimedia.org/wiki/File:Conversations_on_the_Plurality_of_Worlds_frontpiece.jpg",
+  "https://commons.wikimedia.org/wiki/File:Lifo_stack.png",
+  "https://slackhq.com/threaded-messaging-comes-to-slack",
+  "https://www.reddit.com/r/funny/comments/rx520/its_pun_threads_like_this_that_make_reddit/",
 ]
 
 const CitationsPage = () => (
@@ -63,7 +67,8 @@ const CitationsPage = () => (
     <h2>Prior Work</h2>
     <ul>
       <Citation link="http://www.graycrawford.com/nonlinear-conversational-medium">
-        G. Crawford, “Nonlinear Conversational Medium,” Nov-2017. [Online].
+        G. Crawford, and S. Dombkowski, “Nonlinear Conversational Medium,”
+        Nov-2017. [Online].
       </Citation>
     </ul>
     <h3>Comic Inspiration</h3>
@@ -71,6 +76,9 @@ const CitationsPage = () => (
       <Citation>
         N. Sousanis, Unflattening. Cambridge, MA: Harvard University Press,
         2015.
+      </Citation>
+      <Citation link="https://twitter.com/yoshikischmitz/status/1202581577571557381">
+        Yoshiki Schmitz on Twitter, 5-Dec-2019
       </Citation>
       <Citation link="http://elzr.com/else/napkin-comic.pdf">
         E. Parra, “Napkin,” 25-Apr-2014. [Online].
