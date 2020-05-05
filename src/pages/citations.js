@@ -55,6 +55,13 @@ const CitationsPage = () => (
         Carse, James. Finite and Infinite Games a Vision of Life as Play and
         Possibility. Free Press, 2012.
       </Citation>
+      <Citation link="https://twitter.com/david_perell/status/1240836363190222848">
+        @david_perell on Twitter, 19 March 2020
+      </Citation>
+      <Citation link="https://homes.cs.washington.edu/~axz/papers/PhDThesisFinal.pdf">
+        Zhang, Amy Xian. Systems for collective human curation of online
+        discussion. Diss. Massachusetts Institute of Technology, 2019.
+      </Citation>
     </ul>
     <h3>Images</h3>
     <ul>
