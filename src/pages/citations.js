@@ -55,6 +55,10 @@ const CitationsPage = () => (
         Carse, James. Finite and Infinite Games a Vision of Life as Play and
         Possibility. Free Press, 2012.
       </Citation>
+      <Citation link="http://www.graycrawford.com/nonlinear-conversational-medium">
+        G. Crawford, and S. Dombkowski, “Nonlinear Conversational Medium,”
+        Nov-2017. [Online].
+      </Citation>
       <Citation link="https://twitter.com/david_perell/status/1240836363190222848">
         @david_perell on Twitter, 19 March 2020
       </Citation>
@@ -86,12 +90,6 @@ const CitationsPage = () => (
       ))}
     </ul>
     <h2>Prior Work</h2>
-    <ul>
-      <Citation link="http://www.graycrawford.com/nonlinear-conversational-medium">
-        G. Crawford, and S. Dombkowski, “Nonlinear Conversational Medium,”
-        Nov-2017. [Online].
-      </Citation>
-    </ul>
     <h3>Comic Inspiration</h3>
     <ul>
       <Citation>
