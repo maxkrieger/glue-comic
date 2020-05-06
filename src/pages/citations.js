@@ -58,9 +58,23 @@ const CitationsPage = () => (
       <Citation link="https://twitter.com/david_perell/status/1240836363190222848">
         @david_perell on Twitter, 19 March 2020
       </Citation>
+      <Citation link="https://homes.cs.washington.edu/~axz/papers/wikum.pdf">
+        Wikum: Bridging Discussion Forums and Wikis using Recursive
+        Summarization. Amy X. Zhang, Lea Verou, David Karger. CSCW '17.
+      </Citation>
       <Citation link="https://homes.cs.washington.edu/~axz/papers/PhDThesisFinal.pdf">
         Zhang, Amy Xian. Systems for collective human curation of online
         discussion. Diss. Massachusetts Institute of Technology, 2019.
+      </Citation>
+      <Citation link="https://doi.org/10.17175/SB004_008">
+        Neill, I. and Kuczera, A. 2019. The Codex – an Atlas of Relations. Die
+        Modellierung des Zweifels – Schlüsselideen und -konzepte zur
+        graphbasierten Modellierung von Unsicherheiten. [Ausgewählte Beiträge
+        der Tagung 19.-20.01.2018 an der Akademie der Wissenschaften und der
+        Literatur. Mainz] Hg. von Andreas Kuczera / Thorsten Wübbena / Thomas
+        Kollatz. Wolfenbüttel 2019. (= Zeitschrift für digitale
+        Geisteswissenschaften / Sonderbände, (2019), 4).
+        DOI:https://doi.org/10.17175/SB004_008.
       </Citation>
     </ul>
     <h3>Images</h3>
