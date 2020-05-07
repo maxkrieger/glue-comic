@@ -52,6 +52,9 @@ const CitationsPage = () => (
         Design for Effective Conversation?” Dubberly Design Office, 1 May 2009
       </Citation>
       <Citation>
+        Illich, Ivan, and Anne Lang. Tools for conviviality. Harper & Row, 1973.
+      </Citation>
+      <Citation>
         Carse, James. Finite and Infinite Games a Vision of Life as Play and
         Possibility. Free Press, 2012.
       </Citation>
