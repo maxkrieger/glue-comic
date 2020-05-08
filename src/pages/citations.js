@@ -35,6 +35,9 @@ const IMAGE_CITATIONS = [
   "https://commons.wikimedia.org/wiki/File:Lifo_stack.png",
   "https://slackhq.com/threaded-messaging-comes-to-slack",
   "https://www.reddit.com/r/funny/comments/rx520/its_pun_threads_like_this_that_make_reddit/",
+  "https://en.m.wikipedia.org/wiki/File:Beethoven_opus_101_manuscript.jpg",
+  "https://observablehq.com/@observablehq/introducing-visual-dataflow",
+  "https://commons.wikimedia.org/wiki/File:Sonate_Op101intro.jpg",
 ]
 
 const CitationsPage = () => (
@@ -82,6 +85,9 @@ const CitationsPage = () => (
         Kollatz. Wolfenbüttel 2019. (= Zeitschrift für digitale
         Geisteswissenschaften / Sonderbände, (2019), 4).
         DOI:https://doi.org/10.17175/SB004_008.
+      </Citation>
+      <Citation link="https://observablehq.com/@observablehq/introducing-visual-dataflow">
+        Tucker, T. 2019. Introducing Visual Dataflow. Observablehq.
       </Citation>
     </ul>
     <h3>Images</h3>
