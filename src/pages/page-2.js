@@ -1,17 +1,37 @@
 import React from "react"
 import { Link } from "gatsby"
 
-import Chapter2 from "../images/Chapter2.png"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
+import { useStaticQuery, graphql } from "gatsby"
+import Img from "gatsby-image"
 
-const SecondPage = () => (
-  <Layout>
-    <SEO title="Chatting with Glue, Chapter 2" />
-    <img src={Chapter2} alt="Chapter 2" />
-    <p>To be continued...</p>
-    <Link to="/">{"<"} Chapter 1</Link>
-  </Layout>
-)
+const SecondPage = () => {
+  const data = useStaticQuery(graphql`
+    query {
+      placeholderImage: file(relativePath: { eq: "Chapter2.png" }) {
+        childImageSharp {
+          fluid(maxWidth: 750, fit: CONTAIN) {
+            ...GatsbyImageSharpFluid
+          }
+        }
+      }
+    }
+  `)
+  return (
+    <Layout>
+      <SEO title="Chapter 2" />
+      <Img
+        fluid={data.placeholderImage.childImageSharp.fluid}
+        alt="Chapter 2"
+        style={{ maxWidth: "700px" }}
+      />
+      <div style={{ textAlign: "center" }}>
+        <Link to="/page-3">Chapter 3 {">"}</Link>
+      </div>
+      <Link to="/">{"<"} Chapter 1</Link>
+    </Layout>
+  )
+}
 
 export default SecondPage

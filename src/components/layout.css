@@ -211,8 +211,8 @@ body {
   font-feature-settings: "kern", "liga", "clig", "calt";
 }
 img {
-  width: 100%;
-  max-width: 700px;
+  /* width: 100%; */
+  /* max-width: 700px; */
   margin-left: 0;
   margin-right: 0;
   margin-top: 0;

@@ -89,6 +89,15 @@ const CitationsPage = () => (
       <Citation link="https://observablehq.com/@observablehq/introducing-visual-dataflow">
         Tucker, T. 2019. Introducing Visual Dataflow. Observablehq.
       </Citation>
+      <Citation>
+        Kanerva, Pentti. Sparse Distributed Memory. United Kingdom, Cambridge,
+        Mass., 1988.
+        <br />
+        via James Somers,{" "}
+        <a href={"https://jsomers.net/blog/conversation"}>
+          The shape of a listener
+        </a>
+      </Citation>
     </ul>
     <h3>Images</h3>
     <ul>

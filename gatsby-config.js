@@ -3,7 +3,9 @@ module.exports = {
   siteMetadata: {
     title: `Chatting with Glue`,
     description: `Cognitive Tools for Augmented Conversation`,
-    author: `@maxkriegers`,
+    author: `Max Krieger`,
+    twitterUsername: `@maxkriegers`,
+    image: `/images/cover.png`,
   },
   plugins: [
     {
