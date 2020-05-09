@@ -38,6 +38,7 @@ const IMAGE_CITATIONS = [
   "https://en.m.wikipedia.org/wiki/File:Beethoven_opus_101_manuscript.jpg",
   "https://observablehq.com/@observablehq/introducing-visual-dataflow",
   "https://commons.wikimedia.org/wiki/File:Sonate_Op101intro.jpg",
+  "https://darkblueheaven.com/spatialsoftware/",
 ]
 
 const CitationsPage = () => (
@@ -107,7 +108,6 @@ const CitationsPage = () => (
         </a>
       ))}
     </ul>
-    <h2>Prior Work</h2>
     <h3>Comic Inspiration</h3>
     <ul>
       <Citation>

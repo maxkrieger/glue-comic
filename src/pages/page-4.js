@@ -27,7 +27,7 @@ const SecondPage = () => {
         style={{ maxWidth: "700px" }}
       />
       <div style={{ textAlign: "center" }}>
-        <Link to="/page-4">Chapter 5 {">"}</Link>
+        <Link to="/page-5">Chapter 5 {">"}</Link>
       </div>
       <Link to="/page-3">{"<"} Chapter 3</Link>
     </Layout>
