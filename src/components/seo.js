@@ -58,23 +58,23 @@ function SEO({ description, lang, meta, title }) {
         },
         {
           property: `og:image:width`,
-          content: `1260`,
+          content: `1200`,
         },
         {
           property: `og:image:height`,
-          content: `720`,
+          content: `630`,
         },
         {
           name: `twitter:card`,
-          content: `summary`,
+          content: `summary_large_image`,
         },
         {
           name: `twitter:creator`,
-          content: site.siteMetadata.author,
+          content: site.siteMetadata.twitterUsername,
         },
         {
           name: `twitter:title`,
-          content: title,
+          content: "Chatting with Glue",
         },
         {
           name: `twitter:description`,
