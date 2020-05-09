@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{RXBc:function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),r=a.n(n),l=a("Wbzz"),c=a("Bl7J"),i=a("Q3Qr"),p=a.n(i),u=a("vrFN");t.default=function(){return r.a.createElement(c.a,null,r.a.createElement(u.a,{title:"Chatting with Glue"}),r.a.createElement("img",{src:p.a,alt:"Chapter 1"}),r.a.createElement("div",{style:{textAlign:"center"}},r.a.createElement(l.Link,{to:"/page-2"},"Chapter 2 ",">")))}}}]);
-//# sourceMappingURL=component---src-pages-index-js-9ee689237d105945638b.js.map
