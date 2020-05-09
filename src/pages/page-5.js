@@ -16,6 +16,14 @@ const furtherReading = [
     "https://mobile.twitter.com/andy_matuschak/status/1202663202997170176",
   ],
   [
+    "Conversation App Design by Malcolm Ocean",
+    "https://roamresearch.com/#/app/malcolmocean/page/Tbh3Tm5ju",
+  ],
+  [
+    "Roam/Slack Killer by Jeff Tang",
+    "https://twitter.com/tangjeff0/status/1248060649344831488",
+  ],
+  [
     "What is conversation? by Dubberly & Pangaro",
     "http://www.dubberly.com/articles/what-is-conversation.html",
   ],
@@ -111,7 +119,7 @@ const SecondPage = () => {
         <p>
           Feel free to get in touch on Twitter:{" "}
           <a href="https://twitter.com/maxkriegers">@maxkriegers</a> or by other
-          means on <a href="https://a9.io">a9.io</a>
+          means on <a href="https://a9.io">a9.io</a>.
         </p>
         <h2>Acknowledgements</h2>
         <p>
