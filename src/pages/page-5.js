@@ -75,6 +75,22 @@ const furtherReading = [
     "What Realistic Film Dialogue Sounds Like by Nerdwriter1",
     "https://www.youtube.com/watch?v=CHp639vhUJg&feature=emb_title",
   ],
+  [
+    "Napkin by Eli Parra",
+    "https://twitter.com/elzr/status/1171505815334739968",
+  ],
+  [
+    "Messy Thought, Neat Thought by May-Li Khoe",
+    "https://klr.tumblr.com/post/154784481858/messy-thought-neat-thought",
+  ],
+  [
+    "PROCESS: desire paths in creative interfaces by Katherine Ye, with Angela Zhou and Raymond Zhong",
+    "https://www.cs.cmu.edu/~kqy/resources/PROCESS_YConf.pdf",
+  ],
+  [
+    "Conversation Theory: applications in education and epistemology by Gordon Pask",
+    "http://scholar.googleusercontent.com/scholar?q=cache:t_wFM858daIJ:scholar.google.com/",
+  ],
 ]
 
 const acknowledgements = [
