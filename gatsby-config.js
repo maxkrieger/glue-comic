@@ -30,6 +30,7 @@ module.exports = {
       resolve: `gatsby-plugin-sharp`,
       defaultQuality: 99,
       pngCompressionSpeed: 2,
+      pngCompressionLevel: 2,
     },
     {
       resolve: `gatsby-plugin-manifest`,
