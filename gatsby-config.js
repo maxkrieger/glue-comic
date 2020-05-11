@@ -31,6 +31,7 @@ module.exports = {
       defaultQuality: 99,
       pngCompressionSpeed: 2,
       pngCompressionLevel: 2,
+      pngQuality: 99,
     },
     {
       resolve: `gatsby-plugin-manifest`,

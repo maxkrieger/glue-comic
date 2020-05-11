@@ -11,7 +11,7 @@ const SecondPage = () => {
     query {
       placeholderImage: file(relativePath: { eq: "Chapter3.png" }) {
         childImageSharp {
-          fluid(maxWidth: 750, fit: CONTAIN) {
+          fluid(maxWidth: 750, fit: CONTAIN, quality: 99) {
             ...GatsbyImageSharpFluid
           }
         }
