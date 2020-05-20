@@ -28,6 +28,7 @@ const furtherReading = [
     "http://www.dubberly.com/articles/what-is-conversation.html",
   ],
   ["muze.nyc", "https://muze.nyc"],
+  ["Quill chat", "https://quill.chat/"],
   ["Roam Research", "https://roamresearch.com/"],
   ["Workflowy", "https://workflowy.com/"],
   ["Knovigator", "https://www.knovigator.com/"],
@@ -39,6 +40,7 @@ const furtherReading = [
   ["Tiddlywiki", "https://tiddlywiki.com/"],
   ["Wikum", "http://wikum.csail.mit.edu/"],
   ["Treesheets by Wouter Van Oortmerssen", "http://strlen.com/treesheets/"],
+  ["Google Wave (RIP)", "https://en.wikipedia.org/wiki/Apache_Wave"],
   [
     "The Language of Twitter by Yoshiki Schmitz",
     "https://twitter.com/yoshikischmitz/status/1208632237358379008",
@@ -90,6 +92,10 @@ const furtherReading = [
   [
     "Conversation Theory: applications in education and epistemology by Gordon Pask",
     "http://scholar.googleusercontent.com/scholar?q=cache:t_wFM858daIJ:scholar.google.com/",
+  ],
+  [
+    "Groves: a third-party relational are.na experience by Devin Halladay",
+    "https://www.are.na/devin-halladay/groves",
   ],
 ]
 
