@@ -53,7 +53,7 @@ const IMAGE_CITATIONS = [
     "https://commons.wikimedia.org/wiki/File:Comparison_of_Full-Keyboard,_Single-Shift,_and_Double-Shift_Typerwriters_in_1911.png",
   ],
   [
-    "King Malcolms Gravestone at Glamis, SHakespeare's Tragedy of Macbeth, Harper & Brothers, 1898",
+    "King Malcolms Gravestone at Glamis, Shakespeare's Tragedy of Macbeth, Harper & Brothers, 1898",
     "https://commons.wikimedia.org/wiki/File:King_Malcolms_Gravestone_at_Glamis.jpg",
   ],
   [
