@@ -5,6 +5,7 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import { useStaticQuery, graphql } from "gatsby"
 import Img from "gatsby-image"
+import Navs from "../components/nav"
 
 const SecondPage = () => {
   const data = useStaticQuery(graphql`
@@ -26,10 +27,7 @@ const SecondPage = () => {
         alt="Chapter 4"
         style={{ maxWidth: "700px" }}
       />
-      <div style={{ textAlign: "center" }}>
-        <Link to="/page-5">Chapter 5 {">"}</Link>
-      </div>
-      <Link to="/page-3">{"<"} Chapter 3</Link>
+      <Navs left={3} right={5} />
     </Layout>
   )
 }

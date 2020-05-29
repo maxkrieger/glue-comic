@@ -5,6 +5,7 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import { useStaticQuery, graphql } from "gatsby"
 import Img from "gatsby-image"
+import Navs from "../components/nav"
 
 const furtherReading = [
   [
@@ -154,8 +155,9 @@ const SecondPage = () => {
           ))}
           . And many more.
         </p>
+        <Navs left={4} />
         <h2>Further Reading</h2>
-        <ul>
+        <ul style={{ listStyleType: "none" }}>
           {furtherReading.map(([name, url]) => (
             <li>
               <a href={url}>{name}</a>
@@ -163,8 +165,6 @@ const SecondPage = () => {
           ))}
         </ul>
       </div>
-
-      <Link to="/page-4">{"<"} Chapter 4</Link>
     </Layout>
   )
 }

@@ -1,8 +1,8 @@
 import React from "react"
-import { Link } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
+import Navs from "../components/nav"
 import { useStaticQuery, graphql } from "gatsby"
 import Img from "gatsby-image"
 
@@ -26,10 +26,7 @@ const SecondPage = () => {
         alt="Chapter 2"
         style={{ maxWidth: "700px" }}
       />
-      <div style={{ textAlign: "center" }}>
-        <Link to="/page-3">Chapter 3 {">"}</Link>
-      </div>
-      <Link to="/">{"<"} Chapter 1</Link>
+      <Navs left={1} right={3} />
     </Layout>
   )
 }
