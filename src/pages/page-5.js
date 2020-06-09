@@ -28,6 +28,10 @@ const furtherReading = [
     "What is conversation? by Dubberly & Pangaro",
     "http://www.dubberly.com/articles/what-is-conversation.html",
   ],
+  [
+    "The Codex: An Atlas of Relations by Iian Neill",
+    "https://doi.org/10.17175/SB004_008",
+  ],
   ["muze.nyc", "https://muze.nyc"],
   ["Quill chat", "https://quill.chat/"],
   ["Roam Research", "https://roamresearch.com/"],
