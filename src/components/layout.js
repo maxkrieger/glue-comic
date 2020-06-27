@@ -36,6 +36,8 @@ const Layout = ({ children }) => {
           by Max Krieger, Jan 2020
           <br />
           <Link to="/citations">citations</Link>
+          &nbsp;
+          <a href="https://zenodo.org/record/3889126">pdf</a>
         </footer>
       </div>
     </>
