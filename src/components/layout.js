@@ -33,11 +33,20 @@ const Layout = ({ children }) => {
       >
         <main>{children}</main>
         <footer>
-          by Max Krieger, Jan 2020
+          by Max Krieger, Jan 2020{" "}
+          <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
+            <img
+              alt="Creative Commons License"
+              style={{ borderWidth: 0, marginBottom: 0 }}
+              src="https://i.creativecommons.org/l/by/4.0/88x31.png"
+            />
+          </a>
           <br />
-          <Link to="/citations">citations</Link>
-          &nbsp;
-          <a href="https://zenodo.org/record/3889126">pdf</a>
+          <Link to="/citations">citations</Link>{" "}
+          <a href="https://zenodo.org/record/3889126">pdf</a>{" "}
+          <a href="https://dl.acm.org/doi/abs/10.1145/3397537.3397550">
+            cite via ACM
+          </a>{" "}
         </footer>
       </div>
     </>
