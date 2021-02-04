@@ -21,6 +21,10 @@ const furtherReading = [
     "https://roamresearch.com/#/app/malcolmocean/page/Tbh3Tm5ju",
   ],
   [
+    "Part of Speech: a conversational interface for writing by Katherine Ye and J. Juang",
+    "http://hypotext.co/part-of-speech",
+  ],
+  [
     "Roam/Slack Killer by Jeff Tang",
     "https://twitter.com/tangjeff0/status/1248060649344831488",
   ],
