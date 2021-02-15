@@ -21,6 +21,10 @@ const furtherReading = [
     "https://roamresearch.com/#/app/malcolmocean/page/Tbh3Tm5ju",
   ],
   [
+    "Literary Machines by Ted Nelson",
+    "https://en.wikipedia.org/wiki/Literary_Machines",
+  ],
+  [
     "Part of Speech: a conversational interface for writing by Katherine Ye and J. Juang",
     "http://hypotext.co/part-of-speech",
   ],
