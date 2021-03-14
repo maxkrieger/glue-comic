@@ -22,7 +22,7 @@ const furtherReading = [
   ],
   [
     "Literary Machines by Ted Nelson",
-    "https://en.wikipedia.org/wiki/Literary_Machines",
+    "https://monoskop.org/File:Nelson_Ted_Literary_Machines_c1987_chs_0-1.pdf",
   ],
   [
     "Part of Speech: a conversational interface for writing by Katherine Ye and J. Juang",
