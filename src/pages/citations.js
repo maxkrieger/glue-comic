@@ -240,6 +240,9 @@ const CitationsPage = () => (
         E. Parra, “Napkin,” 25-Apr-2014. [Online].
       </Citation>
       <Citation>Dynamicland Zine</Citation>
+      <Citation link="http://worrydream.com/SeeingSpaces/">
+        Seeing Spaces Comic
+      </Citation>
     </ul>
     <Link to="/">back</Link>
   </Layout>
